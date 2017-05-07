@@ -2,10 +2,12 @@
 ![K-Scripts](https://k-scripts.eu/assets/img/logo.png)
 
 globalChat is bot for TeamSpeak 3.
+Chat with the whole server in one window!
 
   - [Installation](#installation)
   - [Configuration](#configuration)
-  - [Start](#start)
+  - [Commands](#commands)
+  - [License](#license)
 
 ### It's as simple as can be
   - Install [php5]
@@ -13,6 +15,10 @@ globalChat is bot for TeamSpeak 3.
   - Upload files to your server
   - Run it!
 
+## Informations
+- Application is free
+
+- The chat automatically ignores the people who are afk
 
 ## Installation
 Fancy requires [php] 5.4+ and screen [Install instructions.]
@@ -32,7 +38,7 @@ connection:
     password: Z+67aUoi
 [...]
 ```
-## Start
+## Commands
 Upload files to your server
 
 Install the dependencies and start the bot.
@@ -40,6 +46,14 @@ Install the dependencies and start the bot.
 ```sh
 $ cd globalChat
 $ php globalChat start
+```
+
+Application commands:
+
+```sh
+$ !unsub - Turn off chat (When you change your mind, you must contact the administrator)
+$ !ban - Banned user permanently (Usage: !ban 13. 13 is clid)
+$ !unban - Delete ban and add user to chat (Usage: !unban 15. 15 is client database id)
 ```
 
 ## License
