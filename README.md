@@ -35,6 +35,7 @@ connection:
     server_port: 9987
     login: serveradmin
     password: Z+67aUoi
+application:
     filtration: true
     slowmode: true
     accesgroups: []
