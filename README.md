@@ -5,7 +5,7 @@ globalChat is bot for TeamSpeak 3.
 
   - [Installation](#installation)
   - [Configuration](#configuration)
-  - [License](#license)
+  - [Start](#start)
 
 ### It's as simple as can be
   - Install [php5]
@@ -32,7 +32,7 @@ connection:
     password: Z+67aUoi
 [...]
 ```
-
+## Start
 Upload files to your server
 
 Install the dependencies and start the bot.
