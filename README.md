@@ -31,11 +31,12 @@ $ sudo apt-get install screen
 Edit configuration file (default: config/config.yml)
 ```yaml
 connection:
-    ip: 127.0.0.1
+    ip: 127.0.0.1:10011
     server_port: 9987
-    query_port: 10011
     login: serveradmin
     password: Z+67aUoi
+    ignoregroups: []
+    functions: ['filtration']
 [...]
 ```
 ## Commands
