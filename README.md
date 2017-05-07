@@ -37,6 +37,7 @@ connection:
     password: Z+67aUoi
     filtration: true
     slowmode: true
+    accesgroups: []
     ignoregroups: []
 [...]
 ```
