@@ -35,8 +35,9 @@ connection:
     server_port: 9987
     login: serveradmin
     password: Z+67aUoi
+    filtration: true
+    slowmode: true
     ignoregroups: []
-    functions: ['filtration']
 [...]
 ```
 ## Commands
