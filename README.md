@@ -3,9 +3,9 @@
 
 globalChat is bot for TeamSpeak 3.
 Chat with the whole server in one window!
-
+  
+  - [Informations](#informations)
   - [Installation](#installation)
-  - [Configuration](#configuration)
   - [Commands](#commands)
   - [License](#license)
 
@@ -17,7 +17,7 @@ Chat with the whole server in one window!
 
 ## Informations
 - Application is free
-
+- Application checks what the user wants to write and automatically removes entries that are vulgar and advertise other services
 - The chat automatically ignores the people who are afk
 
 ## Installation
