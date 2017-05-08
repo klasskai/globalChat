@@ -21,7 +21,7 @@ Chat with the whole server in one window!
 - The chat automatically ignores the people who are afk
 
 ## Installation
-Fancy requires [php] 5.4+ and screen [Install instructions.]
+globalChat requires [php] 5.4+ and screen [Install instructions.]
 
 Install php5 and screen
 ```sh
